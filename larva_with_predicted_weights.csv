@@ -1,2 +1,3 @@
-image,mask_id,area,perimeter,length,width,Predicted_Weight
-2023-07-10_14-27-53.jpg,0,279170.0,2902.759447336197,24.72199670291515,7.450577991264775,75.96563633481718
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdf5124cbc519d531db9f4228f82f5f0421fc0658f072bd1bc749a8f1485038
+size 166
